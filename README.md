@@ -1,7 +1,7 @@
 # Digital Clock
 
 ## Overview
-The Digital Clock project is a simple application that displays the current time in a digital format using HTML, CSS, and JavaScript.
+The Digital Clock project is a simple application that displays the current time in a digital format using python.
 
 ## Features
 - Real-time display of the current time
@@ -20,7 +20,7 @@ To run the Digital Clock locally, follow these steps:
    ```
 
 ## Usage
-Open the `index.html` file in your web browser to view the digital clock.
+Open the `digital_clock.py` file in your web browser to view the digital clock.
 
 ## Contributing
 Contributions are welcome! To contribute:
