@@ -49,7 +49,7 @@ To start the application, run the following command:
 python main.py
 ```
 
-## Contributing
+## Contributing 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
